@@ -1,0 +1,12 @@
+{
+ "ios": {
+  "latest": "1.1.0",
+  "url": "https://apps.apple.com/app/id6822335173"
+ },
+ "android": {
+  "latest": "1.1.0",
+  "url": "https://www.rustore.ru/catalog/app/com.coffeelayers.game"
+ },
+ "softDays": 7,
+ "min": "1.0.0"
+}
